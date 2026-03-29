@@ -1,4 +1,4 @@
-# 🧠 Reality Engine — Autonomous Decision System
+# Reality Engine — Autonomous Decision System
 
 > **"Stop building chatbots. Start building decision engines."**
 
@@ -8,7 +8,7 @@ It doesn't just "chat" about problems—it observes live system states, detects 
 
 ---
 
-## ⚡ The Pipeline (The 6-Agent Architecture)
+## The Pipeline (The 6-Agent Architecture)
 
 The system operates through a deterministic chain of specialized agents, moving from raw data to measurable impact in seconds:
 
@@ -21,7 +21,7 @@ The system operates through a deterministic chain of specialized agents, moving 
 
 ---
 
-## 🎨 Enterprise-Grade UI
+## Enterprise-Grade UI
 
 Designed with the aesthetic of **Stripe** and **Linear**, the dashboard provides a high-signal, low-noise environment for strategic oversight:
 
@@ -33,7 +33,7 @@ Designed with the aesthetic of **Stripe** and **Linear**, the dashboard provides
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 *   **Backend**: Python, FastAPI, Pandas, NumPy (Deterministic Simulation Engine)
 *   **Frontend**: Next.js 15+, Tailwind CSS 4, Lucide Icons, TypeScript
@@ -41,7 +41,7 @@ Designed with the aesthetic of **Stripe** and **Linear**, the dashboard provides
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Backend (Python 3.10+)
 ```bash
@@ -59,7 +59,7 @@ npm run dev
 
 ---
 
-## 🎯 Demo Success Criteria
+## Demo Success Criteria
 *   **Constraint Detection**: Watch the system detect a supply deficit for 'Global Logistics Co.'.
 *   **Reasoning Trace**: Observe the AI explaining why "Split Order" outperforms "Wait for Restock".
 *   **Measurable Impact**: Real-time calculation of **₹ Saved** vs. the counterfactual opportunity cost.
