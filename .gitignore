@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+**/node_modules/
+dist/
+build/
+.next/
+**/.next/
+out/
+next-env.d.ts
+
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+venv/
+**/venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
